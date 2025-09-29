@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="ALWAN" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 2
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549875&extension=ts&play_token=NNU1ppbsDh
+#EXTINF:0 type="stream" channelId="-1" group="ALWAN" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 1
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549874&extension=ts&play_token=cRbYcECF02
+#EXTINF:0 type="stream" channelId="-1" group="ALWAN" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 3
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&extension=ts&play_token=NIgPwoaa7Y
+#EXTINF:0 type="stream" channelId="-1" name="AR - THMANYAH 1 FHD" group="|AR| THMANYAH", AR - THMANYAH 1 FHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=1297591&extension=ts&play_token=WAWfuavwVp
+#EXTINF:0 type="stream" channelId="-1" name="AR - THMANYAH 1 HD" group="|AR| THMANYAH", AR - THMANYAH 1 HD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=1297590&extension=ts&play_token=AgFdzMox9X
+#EXTINF:0 type="stream" channelId="-1" name="AR - THMANYAH 2 FHD" group="|AR| THMANYAH", AR - THMANYAH 2 FHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=1297589&extension=ts&play_token=1oVCPknDnj
+#EXTINF:0 type="stream" channelId="-1" name="AR - THMANYAH 2 HD" group="|AR| THMANYAH", AR - THMANYAH 2 HD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=1297588&extension=ts&play_token=02c3iX9QUm
+#EXTINF:0 type="stream" channelId="-1" name="AR - THMANYAH 3 FHD" group="|AR| THMANYAH", AR - THMANYAH 3 FHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=1297587&extension=ts&play_token=wddz7K04lL
+#EXTINF:0 type="stream" channelId="-1" name="AR - THMANYAH 3 HD" group="|AR| THMANYAH", AR - THMANYAH 3 HD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=1297586&extension=ts&play_token=3VQsu9BiFm
