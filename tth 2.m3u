@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="ALWAN" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 2
+#EXTINF:0 type="stream" channelId="-1" group="THMANYAH" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 2
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549875&extension=ts&play_token=NNU1ppbsDh
-#EXTINF:0 type="stream" channelId="-1" group="ALWAN" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 1
+#EXTINF:0 type="stream" channelId="-1" group="THMANYAH" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 1
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1549874&extension=ts&play_token=cRbYcECF02
-#EXTINF:0 type="stream" channelId="-1" group="ALWAN" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 3
+#EXTINF:0 type="stream" channelId="-1" group="THMANYAH" logo="https://www2.0zz0.com/2025/09/12/23/855058744.png", thmanyah 3
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:CB:46:ED&stream=1597571&extension=ts&play_token=NIgPwoaa7Y
 #EXTINF:0 type="stream" channelId="-1" name="AR - THMANYAH 1 FHD" group="|AR| THMANYAH", AR - THMANYAH 1 FHD
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:6B:5F:AF&stream=1297591&extension=ts&play_token=WAWfuavwVp
